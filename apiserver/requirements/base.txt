@@ -35,3 +35,4 @@ psycopg-c==3.1.10
 scout-apm==2.26.1
 openpyxl==3.1.2
 beautifulsoup4==4.12.2
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
