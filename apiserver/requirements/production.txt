@@ -9,3 +9,4 @@ django-anymail==10.1
 django-debug-toolbar==4.1.0
 gevent==23.7.0
 psycogreen==1.0.2
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
