@@ -26,7 +26,7 @@
     "@plane/rich-text-editor": "*",
     "@plane/ui": "*",
     "@popperjs/core": "^2.11.8",
-    "@sentry/nextjs": "^7.36.0",
+    "@sentry/nextjs": "^8.32.0",
     "@types/lodash.debounce": "^4.0.7",
     "@types/react-datepicker": "^4.8.0",
     "axios": "^1.1.3",
