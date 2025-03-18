@@ -1,7 +1,7 @@
 -r base.txt
 
 dj-database-url==2.1.0
-gunicorn==21.2.0
+gunicorn==22.0.0
 whitenoise==6.5.0
 django-storages==1.14
 boto3==1.28.40
@@ -9,3 +9,8 @@ django-anymail==10.1
 django-debug-toolbar==4.1.0
 gevent==23.7.0
 psycogreen==1.0.2
+django>=4.2.20 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
