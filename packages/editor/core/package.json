@@ -61,7 +61,7 @@
     "react-moveable": "^0.54.2",
     "tailwind-merge": "^1.14.0",
     "tippy.js": "^6.3.7",
-    "tiptap-markdown": "^0.8.2",
+    "tiptap-markdown": "^0.8.10",
     "use-debounce": "^9.0.4"
   },
   "devDependencies": {
